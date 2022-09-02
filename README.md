@@ -7,3 +7,5 @@
 > Whenever people agree with me. I always feel I must be wrong.   
 > *(Oscar Wilde)* 
 
+## Вопросы для тренировки перед собеседованием
+- [Python](questions/python_questions.md)
