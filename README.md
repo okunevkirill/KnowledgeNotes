@@ -8,4 +8,5 @@
 > *(Oscar Wilde)* 
 
 ## Вопросы для тренировки перед собеседованием
+- [Database](questions/database_questions.md)
 - [Python](questions/python_questions.md)
